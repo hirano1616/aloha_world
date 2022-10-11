@@ -4,4 +4,6 @@ BBBB
 CCCC
 
 orange
-apple
+apple<lf>
+
+初カキコ、ども。
