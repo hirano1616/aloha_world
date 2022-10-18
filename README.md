@@ -2,8 +2,3 @@
 AAAA
 BBBB
 CCCC
-
-orange
-apple<lf>
-
-初カキコ、ども。
