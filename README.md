@@ -8,3 +8,4 @@ apple
 tabetai
 
 sawayaka
+niku tabetakunai?
