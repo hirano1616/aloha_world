@@ -4,6 +4,11 @@ BBBB
 CCCC
 
 orange
-apple<lf>
+apple
+tabetai
 
-初カキコ、ども。
+sawayaka
+niku,tabetakunai?
+
+tabetakunaiyo
+
